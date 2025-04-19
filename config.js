@@ -21,7 +21,7 @@ MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://files.catbox.moe/7zfdcq.j
 // add custom menu and mention reply image url
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "M Abubaker,
+BOT_NAME: process.env.BOT_NAME || "M Abubaker",
 // add bot namw here for menu
 STICKER_NAME: process.env.STICKER_NAME || "m ABUBAKER",
 // type sticker pack name 
